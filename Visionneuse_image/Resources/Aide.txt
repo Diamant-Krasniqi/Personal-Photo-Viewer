@@ -1,0 +1,30 @@
+Aide
+
+Vous avez 2 modes d'ouverture: Traditionnel et par le menu contextuel.
+Traditionnel avec l'explorateur de fichier.
+Menu contextuel, clic droit sur un dossier image.
+Pour le menu contextuel il faut créer un clé dans le registre. Pour cela il faut "executer en tant qu'administrateur".
+La clé ce trouve à: HKEY_CLASSES_ROOT\Folder\shell\Ouvrir dossier images
+Vous pouvez supprimer cette clé quand vous le désirez.
+Vous pouvez convertir vos images en Noir et Blanc et en Sépia.
+Vous pouvez redimensionner vos images en cm. 
+L'enregistrement se fait dans le dossier d'origine avec l'extension et la résolution d'origine.
+En cliquant sur l'image vous obtenez les infos métadonnées EXIF de l'image.
+Mode diaporama, les images s'affichent en plein écran.
+Taille réelle: l'image s'affiche dans la PictureBox en mode Normal
+Vous pouvez supprimer un fichier et l'envoyer à la corbeille.
+Rogner l'image:
+Trois options de recadrage s'offrent à vous: en pixels, en cm ou sélection libre. 
+Pour les pixels, il vous suffit d'entrer les pixels désirés en largeur et en hauteur. 
+Pour les cm, il vous suffit d'entrer les cm désirés en largeur et en hauteur. 
+Ils seront automatiquement convertis en pixel lors du changement de saisie.
+Dans ces 2 cas les proportions sont respectées.
+Pour la sélection libre vous positionnez le rectangle où vous voulez. Les proportions sont libres.
+Pour le rectangle de sélection servez vous des poignées pour l'agrandir et de la croix pour le déplacer.
+Vous pouvez changer la couleur du rectangle de sélection.
+Vous pouvez voir l'aperçu recadré et l'enregistrer avec des marges, en cliquant sur Aperçu recadrage et cadre image .
+Pour les marges vous avez le choix entre un fond de couleur ou un fond prédéfini.
+
+Bonne programmation
+
+Retrouvez tous mes programmes: 

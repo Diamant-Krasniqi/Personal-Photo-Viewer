@@ -1,0 +1,260 @@
+C:\Users\Benjamin Mantoue\Desktop\bb\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe.config
+C:\Users\Benjamin Mantoue\Desktop\bb\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\bb\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\bb\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\bb\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbprojResolveAssemblyReference.cache
+C:\Users\Benjamin Mantoue\Desktop\bb\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Form1.resources
+C:\Users\Benjamin Mantoue\Desktop\bb\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Help.resources
+C:\Users\Benjamin Mantoue\Desktop\bb\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Resources.resources
+C:\Users\Benjamin Mantoue\Desktop\bb\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Preview.resources
+C:\Users\Benjamin Mantoue\Desktop\bb\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Rogner.resources
+C:\Users\Benjamin Mantoue\Desktop\bb\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Screenfull.resources
+C:\Users\Benjamin Mantoue\Desktop\bb\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Zoom.resources
+C:\Users\Benjamin Mantoue\Desktop\bb\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbproj.GenerateResource.Cache
+C:\Users\Benjamin Mantoue\Desktop\bb\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\bb\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\bb\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\aaa\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe.config
+C:\Users\Benjamin Mantoue\Desktop\aaa\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\aaa\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\aaa\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\aaa\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\aaa\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\aaa\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\aaa\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbprojResolveAssemblyReference.cache
+C:\Users\Benjamin Mantoue\Desktop\aaa\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Form1.resources
+C:\Users\Benjamin Mantoue\Desktop\aaa\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Help.resources
+C:\Users\Benjamin Mantoue\Desktop\aaa\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Resources.resources
+C:\Users\Benjamin Mantoue\Desktop\aaa\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Preview.resources
+C:\Users\Benjamin Mantoue\Desktop\aaa\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Rogner.resources
+C:\Users\Benjamin Mantoue\Desktop\aaa\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Screenfull.resources
+C:\Users\Benjamin Mantoue\Desktop\aaa\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Zoom.resources
+C:\Users\Benjamin Mantoue\Desktop\aaa\100589-1426045-visionneuse-d-image\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbproj.GenerateResource.Cache
+C:\Users\Benjamin Mantoue\Desktop\Nouveau dossier\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe.config
+C:\Users\Benjamin Mantoue\Desktop\Nouveau dossier\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\Nouveau dossier\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\Nouveau dossier\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\Nouveau dossier\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\Nouveau dossier\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\Nouveau dossier\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\Nouveau dossier\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbprojResolveAssemblyReference.cache
+C:\Users\Benjamin Mantoue\Desktop\Nouveau dossier\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Form1.resources
+C:\Users\Benjamin Mantoue\Desktop\Nouveau dossier\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Help.resources
+C:\Users\Benjamin Mantoue\Desktop\Nouveau dossier\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Resources.resources
+C:\Users\Benjamin Mantoue\Desktop\Nouveau dossier\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Preview.resources
+C:\Users\Benjamin Mantoue\Desktop\Nouveau dossier\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Rogner.resources
+C:\Users\Benjamin Mantoue\Desktop\Nouveau dossier\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Screenfull.resources
+C:\Users\Benjamin Mantoue\Desktop\Nouveau dossier\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Zoom.resources
+C:\Users\Benjamin Mantoue\Desktop\Nouveau dossier\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbproj.GenerateResource.Cache
+C:\Users\Benjamin Mantoue\Desktop\ccccxcxc\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe.config
+C:\Users\Benjamin Mantoue\Desktop\ccccxcxc\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\ccccxcxc\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\ccccxcxc\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\ccccxcxc\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\ccccxcxc\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\ccccxcxc\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\ccccxcxc\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbprojResolveAssemblyReference.cache
+C:\Users\Benjamin Mantoue\Desktop\ccccxcxc\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Form1.resources
+C:\Users\Benjamin Mantoue\Desktop\ccccxcxc\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Help.resources
+C:\Users\Benjamin Mantoue\Desktop\ccccxcxc\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Resources.resources
+C:\Users\Benjamin Mantoue\Desktop\ccccxcxc\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Preview.resources
+C:\Users\Benjamin Mantoue\Desktop\ccccxcxc\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Rogner.resources
+C:\Users\Benjamin Mantoue\Desktop\ccccxcxc\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Screenfull.resources
+C:\Users\Benjamin Mantoue\Desktop\ccccxcxc\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Zoom.resources
+C:\Users\Benjamin Mantoue\Desktop\ccccxcxc\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbproj.GenerateResource.Cache
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe.config
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbprojResolveAssemblyReference.cache
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Form1.resources
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Help.resources
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Resources.resources
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Preview.resources
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Rogner.resources
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Screenfull.resources
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Zoom.resources
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbproj.GenerateResource.Cache
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe.config
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbprojResolveAssemblyReference.cache
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Form1.resources
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Help.resources
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Resources.resources
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Preview.resources
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Rogner.resources
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Screenfull.resources
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Zoom.resources
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbproj.GenerateResource.Cache
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe.config
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbprojResolveAssemblyReference.cache
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Form1.resources
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Help.resources
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Resources.resources
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Preview.resources
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Rogner.resources
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Screenfull.resources
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Zoom.resources
+C:\Users\Benjamin Mantoue\Desktop\sdfsdf - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbproj.GenerateResource.Cache
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe.config
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbprojResolveAssemblyReference.cache
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Form1.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Help.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Resources.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Preview.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Rogner.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Screenfull.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Zoom.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbproj.GenerateResource.Cache
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe.config
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbprojResolveAssemblyReference.cache
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Form1.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Help.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Resources.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Preview.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Rogner.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Screenfull.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Zoom.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbproj.GenerateResource.Cache
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe.config
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbprojResolveAssemblyReference.cache
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Form1.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Help.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Resources.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Preview.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Rogner.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Screenfull.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Zoom.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbproj.GenerateResource.Cache
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe.config
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbprojResolveAssemblyReference.cache
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Form1.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Help.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Resources.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Preview.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Rogner.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Screenfull.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Zoom.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbproj.GenerateResource.Cache
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe.config
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbprojResolveAssemblyReference.cache
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Form1.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Help.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Resources.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Preview.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Rogner.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Screenfull.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Zoom.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbproj.GenerateResource.Cache
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe.config
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbprojResolveAssemblyReference.cache
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Form1.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Help.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Resources.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Preview.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Rogner.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Screenfull.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Zoom.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbproj.GenerateResource.Cache
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe.config
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbprojResolveAssemblyReference.cache
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Form1.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Help.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Resources.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Preview.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Rogner.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Screenfull.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Zoom.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbproj.GenerateResource.Cache
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe.config
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbprojResolveAssemblyReference.cache
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Form1.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Help.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Resources.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Preview.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Rogner.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Screenfull.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Zoom.resources
+C:\Users\Benjamin Mantoue\Desktop\ok der1 - Copie - Copie - Copie - Copie - Copie - Copie - Copie - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbproj.GenerateResource.Cache
+C:\Users\Benjamin Mantoue\Desktop\visionneur_der - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe.config
+C:\Users\Benjamin Mantoue\Desktop\visionneur_der - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\visionneur_der - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\visionneur_der - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\visionneur_der - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\visionneur_der - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.pdb
+C:\Users\Benjamin Mantoue\Desktop\visionneur_der - Copie\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\visionneur_der - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbprojResolveAssemblyReference.cache
+C:\Users\Benjamin Mantoue\Desktop\visionneur_der - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Form1.resources
+C:\Users\Benjamin Mantoue\Desktop\visionneur_der - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Help.resources
+C:\Users\Benjamin Mantoue\Desktop\visionneur_der - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Resources.resources
+C:\Users\Benjamin Mantoue\Desktop\visionneur_der - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Preview.resources
+C:\Users\Benjamin Mantoue\Desktop\visionneur_der - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Rogner.resources
+C:\Users\Benjamin Mantoue\Desktop\visionneur_der - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Screenfull.resources
+C:\Users\Benjamin Mantoue\Desktop\visionneur_der - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.Zoom.resources
+C:\Users\Benjamin Mantoue\Desktop\visionneur_der - Copie\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.vbproj.GenerateResource.Cache
+C:\Users\Benjamin Mantoue\Desktop\visionneur_der - Copie - Copie (2)\Visionneuse_image\Visionneuse_image\bin\Debug\Visionneuse_image.exe.config
+C:\Users\Benjamin Mantoue\Desktop\visionneur_der - Copie - Copie (2)\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.exe
+C:\Users\Benjamin Mantoue\Desktop\visionneur_der - Copie - Copie (2)\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.xml
+C:\Users\Benjamin Mantoue\Desktop\visionneur_der - Copie - Copie (2)\Visionneuse_image\Visionneuse_image\obj\x86\Debug\Visionneuse_image.pdb

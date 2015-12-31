@@ -1,0 +1,140 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+test
+</name>
+</assembly>
+<members>
+<member name="T:Visionneuse_image.My.Resources.Resources">
+<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+<member name="P:Visionneuse_image.My.Resources.Resources.ResourceManager">
+<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member>
+<member name="P:Visionneuse_image.My.Resources.Resources.Culture">
+<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member>
+<member name="P:Visionneuse_image.My.Resources.Resources.Aide">
+<summary>
+  Recherche une chaîne localisée semblable à Aide
+
+Vous avez 2 modes d&apos;ouverture: Traditionnel et par le menu contextuel.
+Traditionnel avec l&apos;explorateur de fichier.
+Menu contextuel, clic droit sur un dossier image.
+Pour le menu contextuel il faut créer un clé dans le registre. Pour cela il faut &quot;executer en tant qu&apos;administrateur&quot;.
+La clé ce trouve à: HKEY_CLASSES_ROOT\Folder\shell\Ouvrir dossier images
+Vous pouvez supprimer cette clé quand vous le désirez.
+Vous pouvez convertir vos images en Noir et Blanc et en Sépia.
+Vous pouvez redimensio [le reste de la chaîne a été tronqué]&quot;;.
+</summary>
+</member>
+<member name="P:Visionneuse_image.My.Resources.Resources.Aléatoires">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Visionneuse_image.My.Resources.Resources.back_NB">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Visionneuse_image.My.Resources.Resources.Balayage">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Visionneuse_image.My.Resources.Resources.bmp">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Visionneuse_image.My.Resources.Resources.Collapse">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Visionneuse_image.My.Resources.Resources.diapo">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Visionneuse_image.My.Resources.Resources.gif">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Visionneuse_image.My.Resources.Resources.Gribouillis">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Visionneuse_image.My.Resources.Resources.image_resize">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Visionneuse_image.My.Resources.Resources.jpg">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Visionneuse_image.My.Resources.Resources.Mouchetures">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Visionneuse_image.My.Resources.Resources.png">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Visionneuse_image.My.Resources.Resources.ppm">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Visionneuse_image.My.Resources.Resources.previous">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Visionneuse_image.My.Resources.Resources.rotate">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Visionneuse_image.My.Resources.Resources.Shell32132">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Visionneuse_image.My.Resources.Resources.Taches">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Visionneuse_image.My.Resources.Resources.tif">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Visionneuse_image.My.Resources.Resources.Tissu">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Visionneuse_image.My.Resources.Resources.zoom">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
